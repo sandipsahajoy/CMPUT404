@@ -1,1 +1,2 @@
-# Lab 1 - Virtualenv & cURL
+# CMPUT404-Lab1 
+Virtualenv & cURL
